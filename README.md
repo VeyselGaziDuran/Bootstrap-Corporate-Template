@@ -1,1 +1,1 @@
-# Bootstrap Corporate emplate![screencapture-file-D-Front-end-Camp-bootstrap-projeler-1-bootstrap-project-1-index-html-2022-08-30-15_15_05](https://user-images.githubusercontent.com/81925500/187434747-8a2766af-7dad-4ee3-81fd-1629f7571caf.png)
+# Bootstrap Corporate Template![screencapture-file-D-Front-end-Camp-bootstrap-projeler-1-bootstrap-project-1-index-html-2022-08-30-15_15_05](https://user-images.githubusercontent.com/81925500/187434747-8a2766af-7dad-4ee3-81fd-1629f7571caf.png)
